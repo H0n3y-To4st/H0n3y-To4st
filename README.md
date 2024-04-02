@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **back end development**
 
-- 🤝 I’m looking for help with **entering the world of DevOps and Software Engineering**
+- 🤝 I’m looking for help with **entering the world of Software Engineering**
 
 - 📫 How to reach me **ismahhussain@hotmail.co.uk**
 
